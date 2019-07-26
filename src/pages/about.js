@@ -1,15 +1,14 @@
 import React from 'react';
-import { Link } from 'gatsby';
 import Layout from '../components/layout';
 import Head from '../components/head'
 const aboutPage = () => {
     return (
    <Layout>
        <Head title="about"/>
-       <h1>About</h1>
-            <p>17 year old high school developer from Bangkok, Thailand </p>
-            <p>Website coming soon</p>
-            <p>Also you can find my social media follow this link <Link to='/contact'> contact</Link></p>
+            <p>Hi, I'm Bom </p>
+            <p>I'm a full stack developer and computer security researcher in Javascript.</p>
+            <p>I like to make things and working on an open source project </p>
+            <p>I am funder of voiceMe</p>
    </Layout>
     )
 }
