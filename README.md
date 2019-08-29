@@ -1,4 +1,7 @@
 ---
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/babybomn/site.svg)](https://greenkeeper.io/)
+
 Site
 ---
 Run this project
