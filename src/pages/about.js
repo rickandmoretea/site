@@ -6,7 +6,7 @@ const aboutPage = () => {
    <Layout>
        <Head title="about"/>
             <p>Hi, I'm Bom </p>
-            <p>Computer sciece student.</p>
+            <p>1st year CS student.</p>
             <p>I am interest in Bioinformatics, Machine Learning and Deep Learning, System of Justice, Public Health, Environment Sustainbility and Psychology</p>
             <br>
             <H1> Currently </H1>
