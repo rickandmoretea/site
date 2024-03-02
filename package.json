@@ -23,7 +23,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-helmet": "^5.2.1",
-    "sharp": "^0.23.0",
+    "sharp": "^0.33.2",
     "snyk": "^1.425.4"
   },
   "devDependencies": {
